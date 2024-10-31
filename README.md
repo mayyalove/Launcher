@@ -6,7 +6,7 @@ php、java之前的互相调用以实现架构的灵活扩展
 ### 安装
 
 ```php
-composer require xincheng/launcher
+composer require mayyalove/launcher
 ```
 
 ### 基础配置
