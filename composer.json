@@ -1,5 +1,5 @@
 {
-  "name": "xincheng/launcher",
+  "name": "mayyalove/launcher",
   "type": "library",
   "autoload": {
     "psr-4": {
